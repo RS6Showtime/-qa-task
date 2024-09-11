@@ -111,6 +111,8 @@ paths:
                   type: string
                 last_name:
                   type: string
+      security:
+        - bearerAuth: []
       responses:
         '200':
           description: Profile updated successfully
