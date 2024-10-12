@@ -15,6 +15,8 @@ auth_token will be:
 kfn7g2e4t2797kou9clch8m09hbjg95s3zd
 ```
 
+IMPORTANT: ABOVE DATA WILL WORK IF THE USER EXIST
+
 # the scripts perfomance directory
 
 This directory will be use to check the response from client-server and check for valid response in all kind of scenarios.
