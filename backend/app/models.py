@@ -9,3 +9,4 @@ class User(Base):
     hashed_password = Column(String)
     name = Column(String, nullable=True)  
     last_name = Column(String, nullable=True)
+    auth_token = Column(String)
